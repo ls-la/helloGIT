@@ -1,2 +1,2 @@
-helloGIT
+Hello GIT!
 ========
